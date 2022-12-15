@@ -1,4 +1,5 @@
 //Works as Java Interfaces
+//But can have implementations
 
 trait Pet:
   val name: String
